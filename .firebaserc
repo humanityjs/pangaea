@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "webfx-66934"
+  },
+  "targets": {
+    "webfx-66934": {
+      "hosting": {
+        "lumin": [
+          "lumin-test"
+        ]
+      }
+    }
+  }
+}
