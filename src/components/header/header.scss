@@ -1,0 +1,22 @@
+.header {
+  padding: 3rem;
+  background-color: rgb(252, 252, 250);
+  height: 11rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  .title {
+    font-size: 2rem;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    color: rgb(44, 46, 43);
+  }
+
+  .sub-text {
+    margin: 0;
+    color: rgb(111, 112, 110);
+    font-weight: 500;
+    font-size: 0.8rem;
+  }
+}
